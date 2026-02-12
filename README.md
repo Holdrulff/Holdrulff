@@ -37,7 +37,7 @@
     <br />
     <img 
       src="./assets/img/Gemini_Generated_Image_1w3cl11w3cl11w3c.png" 
-      width="120" 
+      width="360" 
       alt="Article thumbnail"
     />
   </li>
