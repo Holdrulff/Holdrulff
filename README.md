@@ -35,7 +35,7 @@
       <strong>Why should junior developers keep struggling to write code in the AI era?</strong>
     </a>
     <br />
-    <p align="center">
+    <p>
       <img 
         src="./assets/img/Gemini_Generated_Image_1w3cl11w3cl11w3c.png" 
         alt="Article thumbnail"
