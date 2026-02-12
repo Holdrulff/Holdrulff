@@ -18,7 +18,7 @@ I'm Wesley, backend developer located in São Paulo, Brazil <img src="./assets/i
 
 <h3>My medium posts</h3>
 <ul>
-  <li><a href="https://medium.com/@wesley.fernan1/why-should-junior-developers-keep-struggling-to-write-code-in-the-ai-era-d909654b062b"><b><img src="./assets/img/Gemini_Generated_Image_1w3cl11w3cl11w3c.png" width="20" alt="new" /> Why should junior developers keep struggling to write code in the AI era?</b></a><br/></li>
+  <li><a href="https://medium.com/@wesley.fernan1/why-should-junior-developers-keep-struggling-to-write-code-in-the-ai-era-d909654b062b"><b> Why should junior developers keep struggling to write code in the AI era?<img src="./assets/img/Gemini_Generated_Image_1w3cl11w3cl11w3c.png" width="20" alt="new" /></br></b></a><br/></li>
 </ul>
 
 <h3>Where to find me</h3>
