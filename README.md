@@ -16,6 +16,11 @@ I'm Wesley, backend developer located in São Paulo, Brazil <img src="./assets/i
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>My medium posts</h3>
+<ul>
+  <li><a href="https://medium.com/@wesley.fernan1/why-should-junior-developers-keep-struggling-to-write-code-in-the-ai-era-d909654b062b"><b><img src="./assets/img/Gemini_Generated_Image_1w3cl11w3cl11w3c.png" width="20" alt="new" /> Why should junior developers keep struggling to write code in the AI era?</b></a><br/></li>
+</ul>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/wesleygrfernandes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
