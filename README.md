@@ -5,12 +5,12 @@
 
 <p>
   Welcome to my GitHub profile! <br />
-  I'm Wesley, backend developer located in São Paulo, Brazil
+  I'm Wesley, a backend developer located in São Paulo, Brazil
   <img src="./assets/icons/brazil-flag.png" width="13" alt="Brazil flag" />.
 </p>
 
 <p>
-  I'm currently coursing my last year as an Information System's student at the University of São Paulo
+  I'm currently attending my last year as an Information System's student at the University of São Paulo
   <img src="./assets/icons/hat.png" width="13" alt="Graduation hat" />
   and I love learning new technologies and creating solutions with them.
 </p>
