@@ -27,24 +27,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<h3>My Medium Posts</h3>
-
-<ul>
-  <li>
-    <a href="https://medium.com/@wesley.fernan1/why-should-junior-developers-keep-struggling-to-write-code-in-the-ai-era-d909654b062b" target="_blank">
-      <strong>Why should junior developers keep struggling to write code in the AI era?</strong>
-    </a>
-    <br />
-    <p>
-      <img 
-        src="./assets/img/Gemini_Generated_Image_1w3cl11w3cl11w3c.png" 
-        alt="Article thumbnail"
-        width="50%"
-      />
-    </p>
-  </li>
-</ul>
-
 <h3>Where to find me</h3>
 
 <p>
