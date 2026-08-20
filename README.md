@@ -10,9 +10,9 @@
 </p>
 
 <p>
-  I'm currently attending my last year as an Information System's student at the University of São Paulo
+  Information Systems grad by University of São Paulo
   <img src="./assets/icons/hat.png" width="13" alt="Graduation hat" />
-  and I love learning new technologies and creating solutions with them.
+  Software Engineering is my passion.
 </p>
 
 <h2>Stacks that I use to code:</h2>
