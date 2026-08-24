@@ -31,6 +31,7 @@
 
 <p>
   <a href="https://devwes.vercel.app/" target="_blank">
+  <img alt="Blog" src="https://img.shields.io/badge/Blog-%231E88E5.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
 
