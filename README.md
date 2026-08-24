@@ -27,6 +27,13 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
+<h3>Visit my blog in:</h3>
+
+<p>
+  <a href="https://devwes.vercel.app/" target="_blank">
+  </a>
+</p>
+
 <h3>Where to find me</h3>
 
 <p>
